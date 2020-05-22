@@ -1,10 +1,10 @@
 ## The Pixelated Coder  :man_technologist:
 
-> Contributor : Kavish Pandit 
-
 <H2>SQL JOURNEY</H2>
 ============
+
 ## :busts_in_silhouette: Author
+
 - [Kavish Pandit](https://github.com/beastgetsssavvy13)
 
 _My journey of 10000 lines of sql commands using 3 databases_
