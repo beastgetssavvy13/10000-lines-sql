@@ -1,6 +1,5 @@
 ## The Pixelated Coder  :man_technologist:
-
-<H2>SQL JOURNEY</H2>
+:pencil: SQL JOURNEY
 ============
 
 ## :busts_in_silhouette: Author
