@@ -52,4 +52,4 @@ mysql> FLUSH PRIVILEGES;
 
 
 ## Description: 
-Created an application using React Hooks and Express Js Server. Feel free to reach out if any issues :raised_hands:
+Created an repository using SQL ON MYSQL WORKBENCH. Feel free to reach out if any issues :raised_hands:
