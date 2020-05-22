@@ -8,7 +8,7 @@
 
 _My journey of 10000 lines of sql commands using 3 databases_
 
-## :tada: SQL COMMANDS
+## :tada: ALL SQL COMMANDS USED
 
 - [Sql Link](https://github.com/beastgetssavvy13/10000-lines-sql-journey/blob/master/SQL.txt)
 
