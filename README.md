@@ -36,17 +36,16 @@ mysql> FLUSH PRIVILEGES;
 //EXIT TO LOG IN TO ADMIN
 
 ### SCHOOL
-<br>
+
 <img src="https://github.com/beastgetssavvy13/10000-lines-sql-journey/blob/master/1.JPG"/>
-<br>
+
 ### COMPANY
-<br>
+
 <img src="https://github.com/beastgetssavvy13/10000-lines-sql-journey/blob/master/2.JPG"/>
-<br>
+
 ### ONLINESHOP
-<br>
+
 <img src="https://github.com/beastgetssavvy13/10000-lines-sql-journey/blob/master/3.JPG"/>
-<br>
 
 
 ## Description: 
